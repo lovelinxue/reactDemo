@@ -1,0 +1,9 @@
+{
+    "code":1,
+    "data":{
+        "name":"jack",
+        "age":29,
+        "work":"教师"
+    },
+    "msg":"success"
+}
